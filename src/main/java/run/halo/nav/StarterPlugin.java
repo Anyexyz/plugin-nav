@@ -13,9 +13,9 @@ import run.halo.app.plugin.PluginContext;
  * @since 1.0.0
  */
 @Component
-public class NavPlugin extends BasePlugin {
+public class StarterPlugin extends BasePlugin {
 
-    public NavPlugin(PluginContext pluginContext) {
+    public StarterPlugin(PluginContext pluginContext) {
         super(pluginContext);
     }
 

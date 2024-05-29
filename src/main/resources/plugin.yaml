@@ -8,7 +8,9 @@ spec:
   author:
     name: Anye
     website: "https://www.anye.xyz"
-  logo: "https://www.halo.run/logo"
+  logo: logo.png
+  settingName: plugin-nav-settings
+  configMapName: plugin-nav-configmap
   homepage: https://github.com/Anyexyz/plugin-nav#readme
   repo: https://github.com/Anyexyz/plugin-nav
   issues: https://github.com/Anyexyz/plugin-nav/issues
