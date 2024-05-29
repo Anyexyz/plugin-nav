@@ -1,4 +1,4 @@
-# plugin-starter
+# plugin-nav
 
 Halo 2.0 插件开发快速开始模板。
 
@@ -16,15 +16,15 @@ Halo 2.0 插件开发快速开始模板。
 克隆项目：
 
 ```bash
-git clone git@github.com:halo-sigs/plugin-starter.git
+git clone git@github.com:halo-sigs/plugin-nav.git
 
 # 或者当你 fork 之后
 
-git clone git@github.com:{your_github_id}/plugin-starter.git
+git clone git@github.com:{your_github_id}/plugin-nav.git
 ```
 
 ```bash
-cd path/to/plugin-starter
+cd path/to/plugin-nav
 ```
 
 ### 运行方式 1（推荐）
@@ -70,7 +70,7 @@ halo:
   plugin:
     runtime-mode: development
     fixedPluginPath:
-      - "/path/to/plugin-starter"
+      - "/path/to/plugin-nav"
 ```
 
 最后重启 Halo 项目即可。

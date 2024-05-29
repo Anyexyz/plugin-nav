@@ -1,4 +1,4 @@
-package run.halo.starter;
+package run.halo.nav;
 
 import org.springframework.stereotype.Component;
 import run.halo.app.plugin.BasePlugin;
@@ -13,9 +13,9 @@ import run.halo.app.plugin.PluginContext;
  * @since 1.0.0
  */
 @Component
-public class StarterPlugin extends BasePlugin {
+public class NavPlugin extends BasePlugin {
 
-    public StarterPlugin(PluginContext pluginContext) {
+    public NavPlugin(PluginContext pluginContext) {
         super(pluginContext);
     }
 
